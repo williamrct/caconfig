@@ -1,0 +1,5 @@
+[
+  { "name": "United States", "code": "+1", "iso": "US" },
+  { "name": "Canada", "code": "+1", "iso": "CA" },
+  { "name": "United Kingdom", "code": "+44", "iso": "GB" }
+]

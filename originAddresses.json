@@ -6,9 +6,11 @@
     "streetAddressLine1": "30 Ronald Rd.",
     "streetAddressLine2": "",
     "addressCity": "Stratford",
-    "addressState": "CT",
+    "addressState": "Connecticut",
+    "addressStateCode": "CT",
     "postalCode": "06614",
-    "countryName": "US",
+    "countryName": "United States",
+    "countryISO": "US",
     "telephoneNumber": "203-206-5690",
     "emailAddress": "support@cardlinks.app"
   }
